@@ -1,0 +1,4 @@
+I don't know what I was doing before...
+Here, this should be a little safer.
+
+Flag is in flag.txt

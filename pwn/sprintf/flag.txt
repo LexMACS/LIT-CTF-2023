@@ -1,0 +1,1 @@
+LITCTF{What's_better_than_a_buffer_overflow?_A_buffer_overflow_with_a_format_string_vulnerability_in_one_function!_Only_available_with_sprintf,_and_scanf_maybe}
