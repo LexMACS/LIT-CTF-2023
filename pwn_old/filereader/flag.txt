@@ -1,1 +1,0 @@
-LITCTF{very_legitimate_exit_function}

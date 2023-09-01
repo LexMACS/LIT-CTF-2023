@@ -1,1 +1,0 @@
-Solve this problem to find out! The flag is lowercase. Wrap with LITCTF{}.
