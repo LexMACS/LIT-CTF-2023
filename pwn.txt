@@ -1,0 +1,9 @@
+chal name                    : author : # solves
+-------------------------------------------------
+My Pet Canary's Birthday Pie : w0152 : 116
+File Reader?                 : w0152 : 77
+SHA-SHA-Shell                : w0152 : 24
+sprintf                      : w0152 : 16
+cat                          : w0152 : 9
+susprintf                    : w0152 : 3
+Stiller printf               : JoshL : 2

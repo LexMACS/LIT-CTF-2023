@@ -1,0 +1,1 @@
+You must solve this puzzle to meet the Xord, the Xor Lord. Wrap your flag with LITCTF{}.<br>Connect with <code>nc litctf.org 31771</code>

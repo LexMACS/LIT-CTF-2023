@@ -1,0 +1,5 @@
+The first 4 emojis are easy to derive with system of equations.
+
+The last emoji can be derived using Lagrange interpolation.
+
+After we get the string, we let 00=a, 01=b, 02=c, ..., 25=z.

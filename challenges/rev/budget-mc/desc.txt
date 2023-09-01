@@ -1,0 +1,1 @@
+I made a game, but where is the flag?<br>Connect with <code>nc litctf.org 31787</code>

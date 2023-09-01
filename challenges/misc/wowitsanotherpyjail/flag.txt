@@ -1,0 +1,1 @@
+LITCTF{https://github.com/zopefoundation/RestrictedPython/blob/master/src/RestrictedPython/Guards.py#L249_is_insufficent_so_sad}

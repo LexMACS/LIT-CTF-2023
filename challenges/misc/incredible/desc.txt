@@ -1,0 +1,1 @@
+<a href='https://docs.google.com/spreadsheets/d/1_YWRWjIUTPfbJ5ZWeYyiAi69PkI-F-GGKa6stQlNtEA/edit?usp=sharing'>https://docs.google.com/spreadsheets/d/1_YWRWjIUTPfbJ5ZWeYyiAi69PkI-F-GGKa6stQlNtEA/edit?usp=sharing</a>. Wrap flag with LITCTF{}.

@@ -1,0 +1,14 @@
+chal name                                      : author            : # solves
+------------------------------------------------------------------------------
+polypoint                                      : Emerald Block     : 57
+are YOU smarter than Joseph-Louis Lagrange???? : timetravellingcat : 31
+E(Z/C)LCG                                      : quasar0147        : 29
+Kirby's Recipe                                 : swan07            : 16
+icecream                                       : swan07            : 15
+LCG... Squared?                                : quasar0147        : 14
+leaderboard-service                            : eyangch           : 10
+LCG to the power of n!                         : quasar0147        : 10
+cursed ciphers                                 : timetravellingcat : 7
+Climbing Snowdon                               : Ethan             : 7
+The Door to the Xord                           : w0152             : 1
+Your Did It!                                   : CodeTiger         : 1

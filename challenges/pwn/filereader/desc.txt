@@ -1,0 +1,1 @@
+This program reads a file called flag.txt, but it doesn't seem to work...<br>Connect with <code>nc litctf.org 31772</code>

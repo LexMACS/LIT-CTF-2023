@@ -1,0 +1,1 @@
+I made my own shell! In c! View available commands with <code>help</code>.<br>Connect with <code>nc litctf.org 31778</code>

@@ -1,0 +1,1 @@
+I have two solutions that AC Ray's Arrays from LIT 2022. Can you hack one?<br>Connect with <code>nc litctf.org 31777</code>

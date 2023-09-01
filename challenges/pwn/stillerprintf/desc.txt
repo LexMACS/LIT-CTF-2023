@@ -1,0 +1,1 @@
+So it's consistent right?<br>Hint: <a href='http://blog.redrocket.club/2020/12/23/HXPCTF-Still_Printf/'>http://blog.redrocket.club/2020/12/23/HXPCTF-Still_Printf/</a><br>Connect with <code>nc litctf.org 31779</code>

@@ -1,0 +1,1 @@
+I don't know what I was doing before...<br>Looks like <code>sprintf</code> doesn't stand for secure printf!<br>Here, this should be a lot safer.<br>Flag is in <code>flag.txt</code>.<br>Connect with <code>nc litctf.org 31792</code>.

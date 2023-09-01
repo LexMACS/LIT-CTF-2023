@@ -1,0 +1,1 @@
+Run <code>cat flag.txt</code> to get the flag. Easy!<br>(Flag is indeed located in flag.txt).<br>Connect with <code>nc litctf.org 31781</code>

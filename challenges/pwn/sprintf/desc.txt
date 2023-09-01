@@ -1,0 +1,1 @@
+<code>sprintf</code> is short for secure printf, right?<br>Connect with <code>nc litctf.org 31790</code>

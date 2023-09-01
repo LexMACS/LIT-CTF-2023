@@ -1,9 +1,0 @@
-chal name : author : estimated difficulty (out of 10)
------------------------------------------
-My Pet Canary's Birthday Pie : w0152 : 2
-File Reader?                 : w0152 : 3
-SHA-SHA-Shell                : w0152 : 4
-cat                          : w0152 : 5
-sprintf                      : w0152 : 6
-Stiller printf               : JoshL : 7
-susprintf                    : w0152 : 7
